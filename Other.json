@@ -1,11 +1,11 @@
 [
   {
-    "name": "Torz",
+    "name": "Mediafusion",
     "searchPattern": {
       "movie": "movie/%imdbId",
       "tv": "series/%oldImdbSearchId"
     },
-    "url": "https://mediafusion.elfhosted.com/D-ZWvwpvvWJSfMDGcNwI0XI-X2x-j0oEaaHAjSQ-H2olBxb8pacJ5MW9fWqveeJbrYtBlnIumnXWHzRM7cfnf9yMZ8Xy6Y2xwYXAVKepRASpjwrpoQmwJQJbAg4XyB2WQ1nYTo3bNBWAtr6FXBr0MwGwPnRAPpTEOAt46Bk4-xA0X3v2bp_PO-bzL5MnQiYfWLs13bY5VgpX5PS_AvFFhz0s5RezNNFIBlSBvl7p7tVxhPAMj40EvqQJju3XwVlJLaT5-DmxFg9aI1IYTr4xmNho9jzAsQHU_5uiiZqi6A5nvCvznZpPY2h9zopK5Wqyq2wcpzOVOrXU5NPneZup2Nq-8rQx7CBqx6fN9im6Nd-XSGVggRGRyn3YUYpHRf7p6U4ty0LWF-KNxhMMs6Zb1KlZXok_s1yzzem45RaKsELmMcMt8eVcBSc2fcdRTM5IPgicKm1yfoFxnqaeU4AtY4YAF-maypLi0yKCHwLp_jaOIimRhMA9O39CYS2S3o-IY3dvhcaTBo0LxRqT-VHpSVdaDGmJSdZ5yP-jsfNkaQTb8YUPuNYQ9xBUU-mWJxad2Rkyt6879WV75x27dKT4lImcyKwUfcTgoC5orVmcBd0CUG9bY7T3uyzu0wyDvNQe_3Urin5lS2iyAZb4GrFEXphg/stream/%searchPattern.json",
+    "url": "https://mediafusion.elfhosted.com/D-6IPbjjFhjkFRZSMASakaegDaczIyCkXU4ZbBfmGr-crS3G2sNU1AhakPjwixwsP9iH4lc1lP1VHdzudHeBU2DdE9APFAxo9IEm1sIonUZOuRhCjeLeoXyWjwmOUdiW8FidB5dcKhIRUoTAOcEjZPykBfW65mf90Rr_I2X1Ks07DUxrWMMy5Auq62_JdfO57cgrMt9LjeZF5B_njH10BQqxynABZhPe_3ECj69g6tYA25jfbgTUtY-tTZvsjH9PNM/stream/%searchPattern.json",
     "type": "json_imdb",
     "imdbType": "movie",
     "infoHashTargetKey": "infoHash",
