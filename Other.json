@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Torz",
+    "searchPattern": {
+      "movie": "movie/%imdbId",
+      "tv": "series/%oldImdbSearchId"
+    },
+    "url": "https://stremthru.elfhosted.com/stremio/torz/eyJzdG9yZXMiOlt7ImMiOiJyZCIsInQiOiJaNlVTQkFPSjJXTTRaR0VaWDJTWkxTUko0TDdIQVhSNjdTV0dOVkFWRENTS01FU0M0SVVBIn1dLCJjYWNoZWQiOnRydWV9/stream/%searchPattern.json",
+    "type": "json_imdb",
+    "imdbType": "movie",
+    "infoHashTargetKey": "infoHash",
+    "itemType": "info_hash",
+    "jsonResultsKey": "streams",
+    "torrentNameTargetKey": "behaviorHints.filename",
+    "sizeAttr": "behaviorHints.videoSize"
+  },
+  {
+    "name": "Torrentio",
+    "searchPattern": {
+      "movie": "movie/%imdbId",
+      "tv": "series/%oldImdbSearchId"
+    },
+    "url": "https://torrentio.strem.fun/sort=qualitysize|limit=7/stream/%searchPattern.json",
+    "type": "json_imdb",
+    "imdbType": "tv",
+    "infoHashTargetKey": "infoHash",
+    "itemType": "info_hash",
+    "jsonResultsKey": "streams",
+    "torrentNameTargetKey": "title"
+  }
+]
